@@ -1,2 +1,2 @@
-FROM node:14
+FROM php:7.3
 EXPOSE 8080
